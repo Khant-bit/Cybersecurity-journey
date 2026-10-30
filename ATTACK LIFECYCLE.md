@@ -77,4 +77,3 @@ Meterpreter is not like shell... Its commands should be written one at a time
 
 I have done this for a second te this time documenting every single process
 
-I h
