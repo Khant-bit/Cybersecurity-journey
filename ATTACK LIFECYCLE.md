@@ -12,7 +12,7 @@ Step 1. Getting metasploitable ip address
 Running command - ifconfig 
 The ip address was 192.168.56.102
 
-Step 2.Getting Kali's io address
+Step 2.Getting Kali's ip address
 Running command -ip a
 The up address was 192.168.56.101
 Ping 192.168.56.102
@@ -75,5 +75,5 @@ Meterpreter is not like shell... Its commands should be written one at a time
 | `help`              | full list                                                             |
 ￼￼￼
 
-I have done this for a second te this time documenting every single process
+I have done this for a second time this time documenting every single process
 
